@@ -75,11 +75,11 @@ def calculatrix(timet,ucdt,btct,hasht):
     hasht.append(maxHash)
 
     df = pd.DataFrame(data = {'Hash':hasht,'Time':timet,'BTC':btct,'USD':ucdt})
-    df.to_csv("all.log", header="Hash", index=None, sep='\t', mode='a')
+    df.to_csv("blockchain.log", header="Hash", index=None, sep='\t', mode='a')
     print(df)
 
 while True:
-    time.sleep(5)
+    time.sleep(60)
     calculatrix(timet,ucdt,btct,hasht)
    
     
