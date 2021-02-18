@@ -29,7 +29,7 @@ To use it you need to specify to your terminal that you want to use Python to ex
   <li> Open the terminal </li>
   <li> Navigate to the python file location using the cd command 
   <ul> <li> If you don't know the full name of the directory by heart you can use the command <b>ls</b></li> 
-    <li>this wil show you the possible paths to take and the files that are present on the current directory</li> </ul></li></li>
+    <li>This wil show you the possible paths to take and the files that are present on the current directory</li> </ul></li></li>
   <li> Python3 part1.py</li>
 </ol>
 
@@ -38,7 +38,7 @@ To use it you need to specify to your terminal that you want to use Python to ex
   <li> Open the cmd </li>
   <li> Navigate to the python file location using the cd command 
   <ul> <li> If you don't know the full name of the directory by heart you can use the command <b>dir</b></li> 
-    <li>this wil show you the possible paths to take and the files that are present on the current directory</li> </ul></li></li>
+    <li>This wil show you the possible paths to take and the files that are present on the current directory</li> </ul></li></li>
   <li> Once you're there you cans use the command
     <ul> <li> python part1.py </li> </ul>
   </li>
