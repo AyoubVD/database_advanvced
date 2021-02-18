@@ -1,4 +1,3 @@
-# Databases Advanced
 # Read Me 😢
 
 <h1> Web scraping python script </h1>
