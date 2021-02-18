@@ -26,15 +26,18 @@ You can do so simply by using the pip install command in the terminal of your op
 You need to run this script on python, it will keep running until you press <b>ctrl + c</b>. <br>
 To use it you need to specify to your terminal that you want to use Python to execute this script. <br>
 <ol>
-  <li>Navigate to the python file location using the cd command </li>
+  <li> Open the terminal </li>
+  <li> Navigate to the python file location using the cd command 
+  <ul> <li> If you don't know the full name of the directory by heart you can use the command dir to show you the possible paths to take </li> </ul></li></li>
   <li> Python3 part1.py</li>
 </ol>
 
 <h3> Windows OS </h3>
 <ol>
-  <li> open the cmd </li>
-  <li> navigate to the python file location </li>
-  <li> once you're there you cans use the command
+  <li> Open the cmd </li>
+  <li> Navigate to the python file location using the cd command 
+  <ul> <li> If you don't know the full name of the directory by heart you can use the command dir to show you the possible paths to take </li> </ul></li>
+  <li> Once you're there you cans use the command
     <ul> <li> python part1.py </li> </ul>
   </li>
  </ol>
