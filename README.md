@@ -19,15 +19,28 @@ You can do so simply by using the pip install command in the terminal of your op
 </ul>
 
 <h2> Usage </h2>
-If you are on a Ubuntu OS you can use the command git clone to download this repository. <br>
+<h3>If you are on a Ubuntu OS you can use the command git clone to download this repository. </h3>
 <ul>
   <li> git clone https://github.com/AyoubVD/database_advanvced.git </li>
 </ul>
 You need to run this script on python, it will keep running until you press <b>ctrl + c</b>. <br>
 To use it you need to specify to your terminal that you want to use Python to execute this script. <br>
-<ul>
-  <li> Python3 part1EXE.py
-</ul>
+<ol>
+  <li>Navigate to the python file location using the cd command </li>
+  <li> Python3 part1.py</li>
+</ol>
+
+<h3> Windows OS </h3>
+<ol>
+  <li> open the cmd </li>
+  <li> navigate to the python file location </li>
+  <li> once you're there you cans use the command
+    <ul> <li> python part1.py </li> </ul>
+  </li>
+ </ol>
+Once again if you want to stop the program you need to press <b>ctrl + c</b>. <br>
+
+
 
 <h2> Use of this script </h2>
 This script scrapes the website mentoined above, and returns the highest value each minute whilst putting it in a log file.
