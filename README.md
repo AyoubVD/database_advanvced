@@ -23,7 +23,7 @@ If you are on a Ubuntu OS you can use the command git clone to download this rep
 <ul>
   <li> git clone https://github.com/AyoubVD/database_advanvced.git </li>
 </ul>
-You need to run this script on python, it will keep running until you press <b>ctrl</b> + <b>c</b>. <br>
+You need to run this script on python, it will keep running until you press <b>ctrl + c</b>. <br>
 
 <h2> Use of this script </h2>
 This script scrapes the website mentoined above, and returns the highest value each minute whilst putting it in a log file.
