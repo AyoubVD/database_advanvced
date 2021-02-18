@@ -1,7 +1,7 @@
 # Databases Advanced
 # Read Me 😢
 
-<h1> Web scraping pythpn script </h1>
+<h1> Web scraping python script </h1>
 
 <h2> Intro </h2>
 This script will scrape the website: https://www.blockchain.com/btc/unconfirmed-transactions <br>
