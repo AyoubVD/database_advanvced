@@ -60,7 +60,7 @@ This script scrapes the website mentoined above, and returns the highest value e
 For installation on ubuntu you can see the bash script to install the required tools. <br>
 
 <h4> Windows </h4>
-<span style="text-decoration: underline">Make sure you install pymongo and compass</span>
+Make sure you install pymongo and compass
 <br>
 You can install pymongo using <b>pip install pymongo</b>.<br><br>
 If you can't use pymongo because you get the ModuleNotFoundError try using the pip command in the <b>Anaconda prompt</b>.<br><br>
