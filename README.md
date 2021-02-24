@@ -6,6 +6,8 @@
 This script will scrape the website: https://www.blockchain.com/btc/unconfirmed-transactions <br>
 and print the highest value on the console while also writing it down in a log file. <br>
 
+<h2> This section covers everythinh you need for the first part </h2>
+
 <h2> Requirements </h2>
 Obviously you need Python to be able to run this script, so I'm assuming that you've already have it up and running. <br>
 If you don't, you can simply install python with the help of a youtube tutorial. Keep in mind that we're using Python 3.8. <br>
@@ -48,3 +50,19 @@ Once again if you want to stop the program you need to press <b>ctrl + c</b>. <b
 
 <h2> Use of this script </h2>
 This script scrapes the website mentoined above, and returns the highest value each minute whilst putting it in a log file.
+
+<h2> This section will explain what you need to do in order to be able to excecute the second script </h2>
+
+<h3> This second script builds further on the previous script, so see that you meet all the previous requirements </h3>
+
+<h3> Guidelines </h3>
+<h4> Ubuntu </h4>
+For installation on ubuntu you can see the bash script to install the required tools. <br>
+
+<h4> Windows </h4>
+<u>Make sure you install pymongo and compass</u>
+<br>
+You can install pymongo using <b>pip install pymongo</b>.<br>
+If you can't use pymongo because you get the ModuleNotFoundError try using the pip command in the <b>Anaconda prompt</b>.<br>
+To install compass you should just go to https://www.mongodb.com/try/download/community and download the file and run it afterwards.<br>
+Check the complete installation once the setup starts running and leave everything on default while installing.<br>
