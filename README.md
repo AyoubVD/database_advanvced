@@ -6,6 +6,7 @@
 This script will scrape the website: https://www.blockchain.com/btc/unconfirmed-transactions <br>
 and print the highest value on the console while also writing it down in a log file. <br>
 
+<h1>Part 01</h1>
 <h2> This section covers everythinh you need for the first part </h2>
 
 <h2> Requirements </h2>
@@ -51,6 +52,7 @@ Once again if you want to stop the program you need to press <b>ctrl + c</b>. <b
 <h2> Use of this script </h2>
 This script scrapes the website mentoined above, and returns the highest value each minute whilst putting it in a log file.
 
+<h1>Part 02</h1>
 <h2> This section will explain what you need to do in order to be able to excecute the second script </h2>
 
 <h3> This second script builds further on the previous script, so see that you meet all the previous requirements </h3>
