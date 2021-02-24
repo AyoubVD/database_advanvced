@@ -6,4 +6,3 @@ echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb
 sudo apt-get update
 sudo apt-get install -y mongodb-org
 sudo systemctl daemon-reload
-sudo systemctl start mongod
