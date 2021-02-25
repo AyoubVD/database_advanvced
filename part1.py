@@ -81,5 +81,3 @@ def calculatrix(timet,ucdt,btct,hasht):
 while True:
     time.sleep(60)
     calculatrix(timet,ucdt,btct,hasht)
-   
-    
