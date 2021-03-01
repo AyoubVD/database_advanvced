@@ -68,3 +68,17 @@ You can install pymongo using <b>pip install pymongo</b>.<br><br>
 If you can't use pymongo because you get the ModuleNotFoundError try using the pip command in the <b>Anaconda prompt</b>.<br><br>
 To install compass you should just go to https://www.mongodb.com/try/download/community , download the file and run it afterwards.<br>
 Check the complete installation once the setup starts running and leave everything on default while installing.<br>
+ <h1>Part 01</h1>
+<h2> This section covers everythinh you need for the third part </h2>
+
+<h2> Requirements </h2>
+You need to have installed everyting you needed for part 01 & 02, otherwise you can't start with part 03
+<ul>
+  <li> pip install redis 
+    <ul>
+      <li>
+        redis-cli (to start redis)
+      </li>
+    </ul>
+  </li>
+</ul>
