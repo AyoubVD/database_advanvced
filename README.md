@@ -73,8 +73,7 @@ Check the complete installation once the setup starts running and leave everythi
 <h2> This section covers everythinh you need for the third part </h2>
 In the third part we're going to scrape blockchain again, but instead of putting everything directly in Mongo Db, <br>
 We are going to use redis to parse the biggest observations to Mongo Db.<br>
-<br>
-<br>
+
 <h2> Requirements </h2>
 You need to have installed everyting you needed for part 01 & 02, otherwise you can't start with part 03
 <ul>
