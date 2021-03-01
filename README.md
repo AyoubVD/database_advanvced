@@ -7,7 +7,7 @@ This script will scrape the website: https://www.blockchain.com/btc/unconfirmed-
 and print the highest value on the console while also writing it down in a log file. <br>
 
 <h1>Part 01</h1>
-<h2> This section covers everythinh you need for the first part </h2>
+<h2> This section covers everything you need for the first part </h2>
 
 <h2> Requirements </h2>
 Obviously you need Python to be able to run this script, so I'm assuming that you've already have it up and running. <br>
@@ -71,8 +71,9 @@ Check the complete installation once the setup starts running and leave everythi
 
  <h1>Part 03</h1>
 <h2> This section covers everythinh you need for the third part </h2>
-In the third part we're going to scrape a website and put it in redis,<br>
-then we are going to parse all this data (the biggest observations) to Mongo DB.<br>
+In the third part we're going to scrape blockchain again, but instead of putting everything directly in Mongo Db, <br>
+We are going to use redis to parse the biggest observations to Mongo Db.<br>
+<br>
 <br>
 <h2> Requirements </h2>
 You need to have installed everyting you needed for part 01 & 02, otherwise you can't start with part 03
