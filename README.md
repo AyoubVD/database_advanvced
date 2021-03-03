@@ -6,8 +6,8 @@
 This script will scrape the website: https://www.blockchain.com/btc/unconfirmed-transactions <br>
 and print the highest value on the console while also writing it down in a log file. <br>
 
-<h1>Part 01</h1>
-<h2> This section covers everything you need for the first part </h2>
+<h1>Part 01: scraper.py</h1>
+<h2> This section covers everything you need for the first </h2>
 
 <h2> Requirements </h2>
 Obviously you need Python to be able to run this script, so I'm assuming that you've already have it up and running. <br>
@@ -52,7 +52,7 @@ Once again if you want to stop the program you need to press <b>ctrl + c</b>. <b
 <h2> Use of this script </h2>
 This script scrapes the website mentoined above, and returns the highest value each minute whilst putting it in a log file.
 
-<h1>Part 02</h1>
+<h1>Part 02: mongo.py</h1>
 <h2> This section will explain what you need to do in order to be able to excecute the second script </h2>
 
 <h3> This second script builds further on the previous script, so see that you meet all the previous requirements </h3>
@@ -69,7 +69,7 @@ If you can't use pymongo because you get the ModuleNotFoundError try using the p
 To install compass you should just go to https://www.mongodb.com/try/download/community , download the file and run it afterwards.<br>
 Check the complete installation once the setup starts running and leave everything on default while installing.<br>
 
- <h1>Part 03</h1>
+ <h1>Part 03: xxx.py</h1>
 <h2> This session will be the same as the second script, but we are adding Redis to it before sending the data to a Mongo DB </h2>
 In the third part we're going to scrape blockchain again, but instead of putting everything directly in Mongo Db, <br>
 We are going to use redis to parse the biggest observations to Mongo Db.<br>
