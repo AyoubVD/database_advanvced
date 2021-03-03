@@ -64,7 +64,7 @@ df.to_csv("blockchain.log", header="Hash", index=None, sep='\t', mode='a')
 print(df)
 
 while True:
-    sleep(5)
+    sleep(60)
     uClient = uReq(my_url)
     page_html = uClient.read()
     uClient.close()
