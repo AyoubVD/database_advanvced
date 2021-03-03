@@ -31,7 +31,7 @@ def time(x):
     for container in containers:
         rawTime = container.find_all('span',{'class':'sc-1ryi78w-0 cILyoi sc-16b9dsl-1 ZwupP u3ufsr-0 eQTRKC'})
         timed.append(rawTime[0].text)
-    mtime = timed[x]
+    mtime = timed[x] 
     return mtime 
 
 def BTC(x):
