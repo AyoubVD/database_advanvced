@@ -73,7 +73,7 @@ DataInBase.insert_one(dict)
 print(df)
 
 while True:
-    sleep(5)
+    sleep(60)
     uClient = uReq(my_url)
     page_html = uClient.read()
     uClient.close()
