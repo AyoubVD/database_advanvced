@@ -85,3 +85,10 @@ You need to have installed everything you needed for part 01 & 02, otherwise you
     </ul>
   </li>
 </ul>
+
+<h1>Part 04: scraperToredis && redisTOmongo</h1>
+<h2>this time we will use a script to scrape the data into redis, 
+  afterwards we will run a second script in which we use the data that we've scraped to put it into our mongodb/h2>
+
+<h1>Part 05: using Docker Hub</h1>
+https://hub.docker.com/repository/docker/ayoubvd/r0812065
